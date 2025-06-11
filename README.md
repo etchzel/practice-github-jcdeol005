@@ -3,5 +3,3 @@
 tes coba
 
 tambahan edit baru
-
-hello world
